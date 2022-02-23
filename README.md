@@ -40,6 +40,11 @@ npm run dev
 Después sólo tendremos que ejecutar este comando:
 node dist/Employee.js
 
+-Instalación
+npm install
+tsc
+node dist/Employee.js
+
 
 private keywords
 https://kendaleiv.com/typescript-constructor-assignment-public-and-private-keywords/
