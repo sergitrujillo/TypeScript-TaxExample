@@ -49,6 +49,20 @@ node dist/Employee.js
 private keywords
 https://kendaleiv.com/typescript-constructor-assignment-public-and-private-keywords/
 
+Plan de pensiones 2022
+https://www.tuproyectodevida.es/cambios-planes-de-pensiones/
+
+Plan de pensiones persona física, máximo desgravable: 1500
+Plan de pensiones empresa, máximo desgravable: 8500
+
+Los tramos para 2022 son:
+​Hasta 12.450 euros: 19%
+De 12.450 euros hasta 20.200 euros: 24%
+De 20.200 euros hasta 35.200 euros: 30%
+De 35.200 euros hasta 60.000 euros: 37%
+De 60.000 euros hasta 300.000 euros: 45%
+De rentas superiores a 300.000 euros: 47%
+
 Exercici pla de pensions
 
 Quin pla de pensions vols realitzar?
