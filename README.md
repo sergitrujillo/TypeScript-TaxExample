@@ -18,3 +18,11 @@ $ npm install
 $ tsc
 $ node dist/IrpfCalc
 ```
+
+## Distributions
+
+package: https://www.npmjs.com/package/tax_project_sergi
+
+```shell
+$ npm publish
+```
